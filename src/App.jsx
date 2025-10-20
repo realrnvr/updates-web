@@ -62,7 +62,7 @@ const App = () => {
       <div>
         <footer className="main-footer">
           <p className="footer-para">
-            <a className="footer-link" href="www.realrnvr.social">
+            <a className="footer-link" href="https://www.realrnvr.social">
               <em>@realrnvr 2025</em>
             </a>
           </p>
